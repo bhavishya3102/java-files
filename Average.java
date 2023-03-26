@@ -4,7 +4,7 @@ public class Average {
     public static void main(String args[]){
         Average s=new  Average();
        s.ar=(s.a+s.b+s.c)/3;
-        System.out.println("Average"+s.ar);
+        System.out.println("Average :"+s.ar);
     
 
 }
