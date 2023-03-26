@@ -4,7 +4,7 @@ public class area_of_rect {
     public static void main(String args[]){
         area_of_rect s=new  area_of_rect();
         s.ar=s.l*s.b;
-        System.out.println("Area of Circle"+s.ar);
+        System.out.println("Area of rect"+s.ar);
     
 }
 }
